@@ -1,12 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
 - # Projeto Control de Pacientes Veterinaria
 Este é um Projeto para control de pacientes en uma Veterinaria (CRUD).
 
@@ -18,7 +9,16 @@ Este é um Projeto para control de pacientes en uma Veterinaria (CRUD).
 
 # Descrição do Projeto
 
-O projeto de control de pacientes Veterinaria foi desenvolvido em React - Vite, esta biblioteca muito poderosa para construir interfaces de usuario. Neste Projeto o usuario pode guardar os dados do paciete em localStorage e além de fazer todas as funcionalidades de um CRUD.
+O projeto de control de pacientes Veterinaria foi desenvolvido em React + Vite, esta biblioteca muito poderosa para construir interfaces de usuario. Neste Projeto o usuario pode guardar os dados do paciete em localStorage e além de fazer todas as funcionalidades de um CRUD.
+
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # Funcionalidades do Projeto
 
