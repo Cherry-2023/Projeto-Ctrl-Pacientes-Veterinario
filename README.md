@@ -19,7 +19,7 @@ Currently, two official plugins are available:
 
 # Tailwind
 
-O projeto utilza Tailwind como Framework do CSS: https://tailwindcss.com/
+O projeto utiliza Tailwind como Framework do CSS: https://tailwindcss.com/
 
 # Funcionalidades do Projeto
 
