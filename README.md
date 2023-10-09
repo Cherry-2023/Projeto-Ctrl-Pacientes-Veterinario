@@ -4,9 +4,6 @@ Este é um Projeto para control de pacientes en uma Veterinaria (CRUD).
 - ## Captura da Tela   
 ![alt text](https://github.com/Cherry-2023/Projeto-Ctrl-Pacientes-Veterinario/blob/master/src/assets/Pantalla.png)
 
-- # Projeto Control de Pacientes Veterinaria
-Este é um Projeto para control de pacientes en uma Veterinaria (CRUD).
-
 # Descrição do Projeto
 
 O projeto de control de pacientes Veterinaria foi desenvolvido em React + Vite, esta biblioteca muito poderosa para construir interfaces de usuario. Neste Projeto o usuario pode guardar os dados do paciete em localStorage e além de fazer todas as funcionalidades de um CRUD.
