@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 - # Projeto Control de Pacientes Veterinaria
 - ## Captura da Tela
-![alt text](https://github.com/Cherry-2023//Projeto-Ctrl-Pacientes-Veterinario/blob/master/src/assets/Pantalla.png)
+![alt text]([https://github.com/Cherry-2023//Projeto-Ctrl-Pacientes-Veterinario/blob/master/src/assets/Pantalla.png])
 
 Este é um Projeto para control de pacientes en uma Veterinaria (CRUD).
 
