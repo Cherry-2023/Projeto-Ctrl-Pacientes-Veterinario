@@ -29,7 +29,7 @@ Funcionalidade 4: Realizar solicitudes ao Array para Modificar dados de clientes
 
 Funcionalidade 5: Realizar solicitudes ao array para remover dados do cliente en Local Storage
 
-Funcionalidade 6: Realizar pesquisas de contatos.
+Funcionalidade 6: Realizar pesquisas de clientes.
 
 # Clonando o Projeto
 
