@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 - ## Captura da Tela
-- (https://github.com/Cherry-2023//Projeto-Ctrl-Pacientes-Veterinario/blob/master/src/assets/Pantalla.png)
+(https://github.com/Cherry-2023//Projeto-Ctrl-Pacientes-Veterinario/blob/master/src/assets/Pantalla.png)
 
 - # Projeto Control de Pacientes Veterinaria
 Este é um Projeto para control de pacientes en uma Veterinaria (CRUD).
