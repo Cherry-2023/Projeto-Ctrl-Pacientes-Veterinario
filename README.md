@@ -7,10 +7,10 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-- # Projeto Control de Pacientes Veterinaria
 - ## Captura da Tela
-![alt text]([https://github.com/Cherry-2023//Projeto-Ctrl-Pacientes-Veterinario/blob/master/src/assets/Pantalla.png])
+![alt text](https://github.com/Cherry-2023//Projeto-Ctrl-Pacientes-Veterinario/blob/master/src/assets/Pantalla.png)
 
+- # Projeto Control de Pacientes Veterinaria
 Este é um Projeto para control de pacientes en uma Veterinaria (CRUD).
 
 # Descrição do Projeto
